@@ -1,0 +1,4294 @@
+fileFormatVersion: 2
+guid: dab6c72dafaa64050bbf5d4f51ed642f
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5daacbeef7034709b6a1011ab9de8b2
+      internalID: 1441970432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0309e1744eed0469fb428e42e2e92a7c
+      internalID: -1012159919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c8d308d517b489cbecd55e38d8cd1f
+      internalID: -997668174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4583949c4a4084bc2809fb43bac1885e
+      internalID: -446445615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fc1f8e54d30447ea26b42947704b18
+      internalID: -887950406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88c1525cd4a24944bd37ca380dda689
+      internalID: -382803025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37ec9645579ec4363af9d942bc30f0fb
+      internalID: -1921470706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8266883d8255a48fba50c7cdb34b481f
+      internalID: 948485172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03e1875a14f774eb6a1d061b477f11d2
+      internalID: 478181227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eb0689351e9495f90d659b6163b866
+      internalID: -996162431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae925133950d9425fbf254225c07d5b3
+      internalID: -368876923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 673e2b83d989442178dc2aa56992cfa7
+      internalID: -589143402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a629dd370f7924c3c8a23816ea5a4eb5
+      internalID: 235153408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67dce87a8ee5141c394a2b7eed98e6dc
+      internalID: 675225719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c350fdd0f594d22b3154316296310f
+      internalID: -1205199625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b885a6c8a244ce090ce7633b6351b4
+      internalID: -1883404272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f754965cb505744b88f29ecb0336fec6
+      internalID: 278171952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0bef392e62b43aea0a0a44700e36d6
+      internalID: 566007851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 968
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ec82d21e929402e8ae93cf262f2df5
+      internalID: -1270379362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20bf50b9717d412180e670c20ed0e42
+      internalID: -1182058059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_20
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95bcbdccdb0a42f29eb1d4ae8830fbf
+      internalID: 531728986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1a7866eb33134f71a9b6df973a02039
+      internalID: 1134839814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_22
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81799843b3eb47a9b629037c11216f6
+      internalID: -349646972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_23
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0906dcb5e156d49a095891e70b97bbea
+      internalID: 1098684574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_24
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cb4b66da67f4c1d9f777528f34b5dc
+      internalID: 1525299649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94c8b5456c8460fabbef11a7335df5
+      internalID: 834274261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_26
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab19109970bc49e4b003865ea47266b
+      internalID: -1905445955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_27
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f719d8bf1e0c3497394030b9d36097b2
+      internalID: 1878577560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_28
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d5c372a2a93450da0f91a5a0a80050
+      internalID: 471457817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a678de6af6bcf435facaef041cac4f20
+      internalID: -1480189681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_30
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beb99870267b4f0fb9fd7a75801ed11
+      internalID: -805692319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_31
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f550f27049534964aa7bbfcd6f5f15e
+      internalID: -949331465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_32
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0413ae1c8714de39f161216b8f9e86
+      internalID: -507584068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_33
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a474708d6c79144a3a6bbcdf78fc5284
+      internalID: 146067372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_34
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8596f63662c149b599a5f5478d9d08b
+      internalID: -775993831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_35
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692733aa4fcd340e389f73765a0d4db6
+      internalID: 1418466120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_36
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a70fedaff924e9f89bcdddd2bdd92c
+      internalID: -1191468679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_37
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 868
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32067f30fcedb4086b4d1ec5bc71e721
+      internalID: -691671027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ff365be5aca41d49d9997c858772b3
+      internalID: -1465404440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_39
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d527a7f6e363a4adbb40365b84d472f7
+      internalID: -1128635480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_40
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acaf5571fc284e57b19da6e6891f324
+      internalID: -238879295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_41
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdcf5d2a4b03a455abb0552454a0ef73
+      internalID: -383353644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_42
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91033b35f9dbe49c29baecd9bd4e9968
+      internalID: -1917765157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_43
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f59db92cc3e4757a3897fb864d3b38
+      internalID: -1805805739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_44
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9a0099338ae64c1e8b564fc05f6b750
+      internalID: 1174061337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_45
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064bde56628d241dc83847fd02371e46
+      internalID: 1058368186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2e2c54597614a3f8ea48ddd20bb3be
+      internalID: -212739000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_47
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5935d102f52514d4690bf03de6bfc311
+      internalID: 1266897806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_48
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969f2cb4f32794691b40b18085ab1bad
+      internalID: 328280559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_49
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40437da445fc04c208beb72d93c9c1be
+      internalID: 1632585433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_50
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3dc9a19c19b4c4da7e7588adcc9b9e
+      internalID: -165135018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_51
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c307e1b1395a643f9b297361c3b85cf9
+      internalID: 1908651550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_52
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6055e5dd8139c4fd1a2fa426e5fd0206
+      internalID: -1331041235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_53
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c577933e9e064358b8c671822c99030
+      internalID: 377897229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_54
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8797f3a768c8349d8b1b2d5288363399
+      internalID: -1939735506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_55
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc64250405faa466abad7b3826f90552
+      internalID: -1749892047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_56
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 768
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d509f70c371841919e32159e50f4fb1
+      internalID: -1977229716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2472894b9a84061891f44d34b1f41b
+      internalID: -733466824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_58
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918221903fa5e4f1ba9d0db6098fe60f
+      internalID: -241840639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_59
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80acb0c41a334064bf0bd0fd3720f03
+      internalID: -1006515852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_60
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150444eff85dd4516a9697918786dbf1
+      internalID: -668164188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_61
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d15246ecf9f14daf82156fbd7669311
+      internalID: 1921261388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_62
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5fc2123a6594220bbfefcc9608b403
+      internalID: -975728238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_63
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf88db0db8d7460094f3666a52d1126
+      internalID: 1665834623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_64
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da01c4b68ad13478d9e87471dedb445f
+      internalID: -2109565603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_65
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8792944be99d94909a47be6609b78c9d
+      internalID: -932896981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_66
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b462e401e81514d85bc6104c598b2079
+      internalID: -1193841139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_67
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc5e8bc6d1d3401eb6e3d27cfd975c6
+      internalID: -1199385920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_68
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d5ecb42f7e14d8d89f426b837958f3
+      internalID: 1874486434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_69
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e051be6ec37124087b3c9142eedd3229
+      internalID: -1709001377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_70
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5144db4fbc0743d5bba32410b781b50
+      internalID: 1871087968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_71
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f97b6b068ff7c4ca18c0d3da0970dd82
+      internalID: -1453604346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_72
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca1cfceb513b842999d3261141319d31
+      internalID: -1943025912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_73
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37409d416e9e84d42b29090baca1daa0
+      internalID: 1349895881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_74
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75476179a36344913a6f25e3cd2e9af0
+      internalID: 877958778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_75
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 668
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e169cc3c1fad4754aa5a18bc24a1199
+      internalID: 1298819532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b5edb8799de4e40895afaf5f808948
+      internalID: -752105348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_77
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c8011f8b68d64f82a6b2aefacf687fb
+      internalID: -422028691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_78
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6abd5a11ffd496baeb6b8fdd6b9e5c
+      internalID: 578472356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_79
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03259461c7c5345ba840b2fde32f5d75
+      internalID: 972904992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_80
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b89ef5c404a804ef996a512d553ccd73
+      internalID: -1244127097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_81
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09411477b0c264d35b813dfd23bb6d4e
+      internalID: -1332390768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_82
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb6dc4cd65816405bbeeb39f28fe670f
+      internalID: 644312016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_83
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a86549c8afded43b086f60848742ed77
+      internalID: -1933977536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_84
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6026fa4b03734536aaa444c483c8d94
+      internalID: 973270866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_85
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff2a0c2bc650441eabb3c8b6d74c982
+      internalID: -1173229760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_86
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1cd34ce3355c4289b7a94b4f4689f86
+      internalID: 539503438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_87
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50810942be6014821ad8c6a6ab617852
+      internalID: 1158966429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_88
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4c5f7e586fe49eeb7fc1484df42663
+      internalID: 775214558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_89
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ec778a0b45f43dc93d0d78d40ad4c0
+      internalID: 1950037236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_90
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ee8f976cd2d4b60b1c51285875f607
+      internalID: -1867180121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_91
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dfce82fdabec4d79951f96e553aa691
+      internalID: -543276151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_92
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0f34a5266f04266885329c2bfbf301
+      internalID: -1256264398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_93
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8513e01f081e2422bab18eb03c8650fe
+      internalID: -276333868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_94
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 568
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d866090a88eb74ba18522ebe45253152
+      internalID: -1194320664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95ba5aac0d19e44e29161f974d33aaf2
+      internalID: 115373747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_96
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684f1b1170a9344088d56f9706f2d120
+      internalID: -665348871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_97
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259e55bc3de954746be8e756fd6c9b4b
+      internalID: -1740184792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_98
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6540620da18d04640ac687c593a80f9a
+      internalID: -116707075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f19de2b7f214248ab82418d1c6d841
+      internalID: 781257560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_100
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f07a88eb2d94a5d8b0e9e7de12f01b
+      internalID: -1417977187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_101
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ea1efb39da845deafc994d21b03037
+      internalID: -860642799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_102
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f27cc648de534686a56c8acaea895d6
+      internalID: 774375094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_103
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee7f4ebb1b2a94367a0b392ae78f5805
+      internalID: -544481582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_104
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e65e009eda234fe18850d58f0456921
+      internalID: 1363170024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_105
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21014119c140a41638111e806c42b488
+      internalID: -768630369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_106
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cdeee1801474b85891bc5c5a0203ba
+      internalID: 1724531410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_107
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f1a755420404158bd7244eb1da1d73
+      internalID: 606887544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_108
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba45618aec304d6abcd4ff4657d7550
+      internalID: 1600088184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_109
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df3634162bf14dc493abde2f221030c
+      internalID: 1082917692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_110
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f47cf8284fb94d1eacf79ffefca2de0
+      internalID: -502881344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_111
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f66ac2cbb5042bb808516ffc12d849
+      internalID: 1593172979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_112
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d518b486decf149e5b1085b114b73291
+      internalID: -1371297668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_113
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 468
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7626b4de3bbb449dcb5783f1eb8ff5d9
+      internalID: -1356716166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_114
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c091d4bc025794549b174c67f8c909cc
+      internalID: 1143607998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_115
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fbb46b0e72e41f8b3082e1e7f8d454
+      internalID: -1180927868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e457fd64fc8c47e1979d8e90d68293b
+      internalID: -240427812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_117
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0a937d0551147b4b395c951a0f4454
+      internalID: 1163269994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_118
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9629d53d1540e4131aa90148ed83ff84
+      internalID: -1787310513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_119
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d004b96bb042e988a9a1e7a1b4f0a
+      internalID: 988760944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_120
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e126887883f40bcb262839d5c9cfc7
+      internalID: -168601640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_121
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2166ee65e09470d8a977a2fcd14d3f
+      internalID: -1785543327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_122
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 253c29e9f07754a90a48edcf1e4925d3
+      internalID: -1459289684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_123
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5388ecdb0e4942d3bdb7bc99da917fa
+      internalID: -1592586990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_124
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b492794d5dac49799e5be3bf0aa164c
+      internalID: 836258679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_125
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f4a0c27293cb48009e8ab094ca17d2c
+      internalID: -878142951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_126
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a3ff19b32104ce8b1c45076465cf68
+      internalID: 342847038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_127
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6765592db423f4d859859fa78ec58e1f
+      internalID: 2056429884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_128
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a5ed89bdadc84f1388974590388ee8a
+      internalID: 677220573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_129
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ad38b3f946ee429db34db177e801c80
+      internalID: -562754839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_130
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53479141843034e4d8ef5d4625175f02
+      internalID: 1393318234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_131
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29607d432fe4249b6a62afc5a1991701
+      internalID: -1495785316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_132
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 368
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e66015fa1f94f39aafaa70d8091c26
+      internalID: -1016185144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_133
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c238df16332fa412bb8b7389396826b6
+      internalID: 635802123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_134
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26c3fd7f5e2574363ae682db474a9cc4
+      internalID: -1558342780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 648fe4d22938d4c88a164c146268df2d
+      internalID: -1430262574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_136
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7beb84532a124474987788d79d76d85
+      internalID: 1529184604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_137
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e05ad491df4af4ccd8869df6d15d0356
+      internalID: -1326088249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_138
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce73dd2a6f2e4cfcbe1fe9d385231f2
+      internalID: -717803300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_139
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affd91b195df848f69445fe0b422999e
+      internalID: 181368686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_140
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731e533abb3934d36895b05ac474c104
+      internalID: 226755954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_141
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1798d69380cc4921af20a4f9c91a76c
+      internalID: -609432716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_142
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b920f6592106542dfa5a4e66de3f08bf
+      internalID: -1921807133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_143
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f2d571a55f034abf8e18dd704e4c07e
+      internalID: -88152148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_144
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4575efa86624120af320584a18c402
+      internalID: 551963636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_145
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e8416d01e534f72a444b6c55773e34
+      internalID: -437371308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_146
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0899ac4cef8a44a4d9cd35f5636a0fc0
+      internalID: 861947145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_147
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343d2d1fe784c4ca5b20c9896a28d5d1
+      internalID: -50091114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_148
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d67dd85ae1642c7aaafcf281ce4be5
+      internalID: 246298374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_149
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8663857ac5ac48528e8d25000b98f90
+      internalID: -475003220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_150
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef50fbedef6824f7e8e260fe35c09a50
+      internalID: 1892512109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_151
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 268
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149115bc3a8154f0898d8b8445d91950
+      internalID: -1658612254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db54b4e2c72a14a479a67ccbff8f1602
+      internalID: 1439939905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_153
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c92c5b399b64bf0bb364493e16e205
+      internalID: -982254156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_154
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23f227201ab74d1c9c0e6bdb991c7e7
+      internalID: 2088773982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_155
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8755d5da2014f1a9c0aa3fc97ab1ab
+      internalID: 1784353653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_156
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f262763b8b1c473485d5d3ed719d0e9
+      internalID: -1078639985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_157
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6405f7074ec68436fb6ac843dcc45808
+      internalID: 1023036532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_158
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56304af1312e463e877c149c27fdcb7
+      internalID: 1461319975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_159
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a04eb939a82456f8fbe95e37b6b975
+      internalID: 1457981204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_160
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c93e67f58008403c93f81bcaf7b82da
+      internalID: -374184620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_161
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed2f623785142c4a233bbd9f9cefd9
+      internalID: -1366086852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_162
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e16065410bc4c3fa944b7d8693314e
+      internalID: -195947144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_163
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b0f60071e874ad1892cf1c0c256b0f
+      internalID: -206026493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_164
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fd60271000b4559a9b024583e9a09d
+      internalID: 2111009417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_165
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87daf22142f7a460784c88a94ec5aeac
+      internalID: -2081309589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_166
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee6c3d883dfe41d08d85b61a89b10f0
+      internalID: 363932690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_167
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e136d07a9ba44b0a819b5ad21e46d3d
+      internalID: -143280481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_168
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077c409fbed3844118832356a213316b
+      internalID: 1876374060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_169
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceea9fc6408aa479aa6f9c2c0bfb9568
+      internalID: 404794682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_170
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 168
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338bda2d478cc4d339619bc0b3dcac9d
+      internalID: -447214529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_171
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aadcd82af5eb84996828117eb8f846b5
+      internalID: -1031755176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_172
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffa8af974e6ed47e295dc4eaebc5bc71
+      internalID: -1539643813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_173
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546dba44e7df2467b937030f9fc63804
+      internalID: 860777649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_174
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e744247a4ad40ad8d390bf9d920f72
+      internalID: -374186213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_175
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1f0d8fd90fc443398edd27d5232cbab
+      internalID: -1874216773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_176
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f1dbc2b07a804970b254abf8fb25307
+      internalID: -681201951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_177
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bee41dae0fc14f5eacb61e7bef5c5a8
+      internalID: -282705714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_178
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ba1b3c03b594c3dbb754b2548a3820
+      internalID: 1211585191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_179
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b544adc48226497a98d8a3913dfb054
+      internalID: -1945107682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_180
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc46c4d0e9594ac088b0260dc4fab4c
+      internalID: -1518699479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_181
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c592097de89a458d807cb2c5192f71f
+      internalID: 928351585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_182
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 776a10da879634523b947555d0383e9c
+      internalID: -344512999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_183
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e92f45b867aa416fa91cb11b9e9e2ea
+      internalID: 1483148632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_184
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9746784c9984f41849b3f485e225d01e
+      internalID: -1325645674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_185
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd337d71c32f94f0a853eed8eabeb9c4
+      internalID: 1997295419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_186
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2a4290b815941bfa8b46fbd9c8c112
+      internalID: -825837089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_187
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57f7e0bddb564929af3d14641cbe9e9
+      internalID: 2123257997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_188
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ee74332008eb45128a2f3c54b4c22e4
+      internalID: 176159310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixel-island-desert-scene-01_189
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 68
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a38b58912caf4e42a3f2b626b7e32c4
+      internalID: -1586623589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pixel-island-desert-scene-01_0: 1441970432
+      pixel-island-desert-scene-01_1: -1012159919
+      pixel-island-desert-scene-01_10: -368876923
+      pixel-island-desert-scene-01_100: -1417977187
+      pixel-island-desert-scene-01_101: -860642799
+      pixel-island-desert-scene-01_102: 774375094
+      pixel-island-desert-scene-01_103: -544481582
+      pixel-island-desert-scene-01_104: 1363170024
+      pixel-island-desert-scene-01_105: -768630369
+      pixel-island-desert-scene-01_106: 1724531410
+      pixel-island-desert-scene-01_107: 606887544
+      pixel-island-desert-scene-01_108: 1600088184
+      pixel-island-desert-scene-01_109: 1082917692
+      pixel-island-desert-scene-01_11: -589143402
+      pixel-island-desert-scene-01_110: -502881344
+      pixel-island-desert-scene-01_111: 1593172979
+      pixel-island-desert-scene-01_112: -1371297668
+      pixel-island-desert-scene-01_113: -1356716166
+      pixel-island-desert-scene-01_114: 1143607998
+      pixel-island-desert-scene-01_115: -1180927868
+      pixel-island-desert-scene-01_116: -240427812
+      pixel-island-desert-scene-01_117: 1163269994
+      pixel-island-desert-scene-01_118: -1787310513
+      pixel-island-desert-scene-01_119: 988760944
+      pixel-island-desert-scene-01_12: 235153408
+      pixel-island-desert-scene-01_120: -168601640
+      pixel-island-desert-scene-01_121: -1785543327
+      pixel-island-desert-scene-01_122: -1459289684
+      pixel-island-desert-scene-01_123: -1592586990
+      pixel-island-desert-scene-01_124: 836258679
+      pixel-island-desert-scene-01_125: -878142951
+      pixel-island-desert-scene-01_126: 342847038
+      pixel-island-desert-scene-01_127: 2056429884
+      pixel-island-desert-scene-01_128: 677220573
+      pixel-island-desert-scene-01_129: -562754839
+      pixel-island-desert-scene-01_13: 675225719
+      pixel-island-desert-scene-01_130: 1393318234
+      pixel-island-desert-scene-01_131: -1495785316
+      pixel-island-desert-scene-01_132: -1016185144
+      pixel-island-desert-scene-01_133: 635802123
+      pixel-island-desert-scene-01_134: -1558342780
+      pixel-island-desert-scene-01_135: -1430262574
+      pixel-island-desert-scene-01_136: 1529184604
+      pixel-island-desert-scene-01_137: -1326088249
+      pixel-island-desert-scene-01_138: -717803300
+      pixel-island-desert-scene-01_139: 181368686
+      pixel-island-desert-scene-01_14: -1205199625
+      pixel-island-desert-scene-01_140: 226755954
+      pixel-island-desert-scene-01_141: -609432716
+      pixel-island-desert-scene-01_142: -1921807133
+      pixel-island-desert-scene-01_143: -88152148
+      pixel-island-desert-scene-01_144: 551963636
+      pixel-island-desert-scene-01_145: -437371308
+      pixel-island-desert-scene-01_146: 861947145
+      pixel-island-desert-scene-01_147: -50091114
+      pixel-island-desert-scene-01_148: 246298374
+      pixel-island-desert-scene-01_149: -475003220
+      pixel-island-desert-scene-01_15: -1883404272
+      pixel-island-desert-scene-01_150: 1892512109
+      pixel-island-desert-scene-01_151: -1658612254
+      pixel-island-desert-scene-01_152: 1439939905
+      pixel-island-desert-scene-01_153: -982254156
+      pixel-island-desert-scene-01_154: 2088773982
+      pixel-island-desert-scene-01_155: 1784353653
+      pixel-island-desert-scene-01_156: -1078639985
+      pixel-island-desert-scene-01_157: 1023036532
+      pixel-island-desert-scene-01_158: 1461319975
+      pixel-island-desert-scene-01_159: 1457981204
+      pixel-island-desert-scene-01_16: 278171952
+      pixel-island-desert-scene-01_160: -374184620
+      pixel-island-desert-scene-01_161: -1366086852
+      pixel-island-desert-scene-01_162: -195947144
+      pixel-island-desert-scene-01_163: -206026493
+      pixel-island-desert-scene-01_164: 2111009417
+      pixel-island-desert-scene-01_165: -2081309589
+      pixel-island-desert-scene-01_166: 363932690
+      pixel-island-desert-scene-01_167: -143280481
+      pixel-island-desert-scene-01_168: 1876374060
+      pixel-island-desert-scene-01_169: 404794682
+      pixel-island-desert-scene-01_17: 566007851
+      pixel-island-desert-scene-01_170: -447214529
+      pixel-island-desert-scene-01_171: -1031755176
+      pixel-island-desert-scene-01_172: -1539643813
+      pixel-island-desert-scene-01_173: 860777649
+      pixel-island-desert-scene-01_174: -374186213
+      pixel-island-desert-scene-01_175: -1874216773
+      pixel-island-desert-scene-01_176: -681201951
+      pixel-island-desert-scene-01_177: -282705714
+      pixel-island-desert-scene-01_178: 1211585191
+      pixel-island-desert-scene-01_179: -1945107682
+      pixel-island-desert-scene-01_18: -1270379362
+      pixel-island-desert-scene-01_180: -1518699479
+      pixel-island-desert-scene-01_181: 928351585
+      pixel-island-desert-scene-01_182: -344512999
+      pixel-island-desert-scene-01_183: 1483148632
+      pixel-island-desert-scene-01_184: -1325645674
+      pixel-island-desert-scene-01_185: 1997295419
+      pixel-island-desert-scene-01_186: -825837089
+      pixel-island-desert-scene-01_187: 2123257997
+      pixel-island-desert-scene-01_188: 176159310
+      pixel-island-desert-scene-01_189: -1586623589
+      pixel-island-desert-scene-01_19: -1182058059
+      pixel-island-desert-scene-01_2: -997668174
+      pixel-island-desert-scene-01_20: 531728986
+      pixel-island-desert-scene-01_21: 1134839814
+      pixel-island-desert-scene-01_22: -349646972
+      pixel-island-desert-scene-01_23: 1098684574
+      pixel-island-desert-scene-01_24: 1525299649
+      pixel-island-desert-scene-01_25: 834274261
+      pixel-island-desert-scene-01_26: -1905445955
+      pixel-island-desert-scene-01_27: 1878577560
+      pixel-island-desert-scene-01_28: 471457817
+      pixel-island-desert-scene-01_29: -1480189681
+      pixel-island-desert-scene-01_3: -446445615
+      pixel-island-desert-scene-01_30: -805692319
+      pixel-island-desert-scene-01_31: -949331465
+      pixel-island-desert-scene-01_32: -507584068
+      pixel-island-desert-scene-01_33: 146067372
+      pixel-island-desert-scene-01_34: -775993831
+      pixel-island-desert-scene-01_35: 1418466120
+      pixel-island-desert-scene-01_36: -1191468679
+      pixel-island-desert-scene-01_37: -691671027
+      pixel-island-desert-scene-01_38: -1465404440
+      pixel-island-desert-scene-01_39: -1128635480
+      pixel-island-desert-scene-01_4: -887950406
+      pixel-island-desert-scene-01_40: -238879295
+      pixel-island-desert-scene-01_41: -383353644
+      pixel-island-desert-scene-01_42: -1917765157
+      pixel-island-desert-scene-01_43: -1805805739
+      pixel-island-desert-scene-01_44: 1174061337
+      pixel-island-desert-scene-01_45: 1058368186
+      pixel-island-desert-scene-01_46: -212739000
+      pixel-island-desert-scene-01_47: 1266897806
+      pixel-island-desert-scene-01_48: 328280559
+      pixel-island-desert-scene-01_49: 1632585433
+      pixel-island-desert-scene-01_5: -382803025
+      pixel-island-desert-scene-01_50: -165135018
+      pixel-island-desert-scene-01_51: 1908651550
+      pixel-island-desert-scene-01_52: -1331041235
+      pixel-island-desert-scene-01_53: 377897229
+      pixel-island-desert-scene-01_54: -1939735506
+      pixel-island-desert-scene-01_55: -1749892047
+      pixel-island-desert-scene-01_56: -1977229716
+      pixel-island-desert-scene-01_57: -733466824
+      pixel-island-desert-scene-01_58: -241840639
+      pixel-island-desert-scene-01_59: -1006515852
+      pixel-island-desert-scene-01_6: -1921470706
+      pixel-island-desert-scene-01_60: -668164188
+      pixel-island-desert-scene-01_61: 1921261388
+      pixel-island-desert-scene-01_62: -975728238
+      pixel-island-desert-scene-01_63: 1665834623
+      pixel-island-desert-scene-01_64: -2109565603
+      pixel-island-desert-scene-01_65: -932896981
+      pixel-island-desert-scene-01_66: -1193841139
+      pixel-island-desert-scene-01_67: -1199385920
+      pixel-island-desert-scene-01_68: 1874486434
+      pixel-island-desert-scene-01_69: -1709001377
+      pixel-island-desert-scene-01_7: 948485172
+      pixel-island-desert-scene-01_70: 1871087968
+      pixel-island-desert-scene-01_71: -1453604346
+      pixel-island-desert-scene-01_72: -1943025912
+      pixel-island-desert-scene-01_73: 1349895881
+      pixel-island-desert-scene-01_74: 877958778
+      pixel-island-desert-scene-01_75: 1298819532
+      pixel-island-desert-scene-01_76: -752105348
+      pixel-island-desert-scene-01_77: -422028691
+      pixel-island-desert-scene-01_78: 578472356
+      pixel-island-desert-scene-01_79: 972904992
+      pixel-island-desert-scene-01_8: 478181227
+      pixel-island-desert-scene-01_80: -1244127097
+      pixel-island-desert-scene-01_81: -1332390768
+      pixel-island-desert-scene-01_82: 644312016
+      pixel-island-desert-scene-01_83: -1933977536
+      pixel-island-desert-scene-01_84: 973270866
+      pixel-island-desert-scene-01_85: -1173229760
+      pixel-island-desert-scene-01_86: 539503438
+      pixel-island-desert-scene-01_87: 1158966429
+      pixel-island-desert-scene-01_88: 775214558
+      pixel-island-desert-scene-01_89: 1950037236
+      pixel-island-desert-scene-01_9: -996162431
+      pixel-island-desert-scene-01_90: -1867180121
+      pixel-island-desert-scene-01_91: -543276151
+      pixel-island-desert-scene-01_92: -1256264398
+      pixel-island-desert-scene-01_93: -276333868
+      pixel-island-desert-scene-01_94: -1194320664
+      pixel-island-desert-scene-01_95: 115373747
+      pixel-island-desert-scene-01_96: -665348871
+      pixel-island-desert-scene-01_97: -1740184792
+      pixel-island-desert-scene-01_98: -116707075
+      pixel-island-desert-scene-01_99: 781257560
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - grab
+  - break
+  - scroll
+  - blueprint
+  - architect
+  - artist
+  - cat
+  - Tracks
+  - NPC
+  - finalPlate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Background
+  - Water
+  - UI
+  - 
+  - 
+  - DoorButton
+  - Ground
+  - Grab_Objects
+  - Logic_Objects
+  - Player
+  - NPC
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 909689551
+    locked: 0
+  - name: Background1
+    uniqueID: 477656735
+    locked: 0
+  - name: Background2
+    uniqueID: 1346894667
+    locked: 0
+  - name: Background3
+    uniqueID: 4224001725
+    locked: 0
+  - name: Background4
+    uniqueID: 3755080995
+    locked: 0
+  - name: Midground
+    uniqueID: 4105278647
+    locked: 0
+  - name: Ground
+    uniqueID: 2551061293
+    locked: 0
+  - name: Objects
+    uniqueID: 1648968927
+    locked: 0
+  - name: Player
+    uniqueID: 4064248981
+    locked: 0
+  - name: UI
+    uniqueID: 1917275857
+    locked: 0

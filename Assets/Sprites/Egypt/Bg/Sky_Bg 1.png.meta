@@ -1,0 +1,4074 @@
+fileFormatVersion: 2
+guid: 882e9a16ade774f81a24b0b8c506418d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Sky_Bg 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca61312b7e398413280f20c4c71dcf6d
+      internalID: -1630802427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180c955e4e0274e60a07964dd8da0300
+      internalID: -1062394500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b3a04c3133664a7e95f8e57d2ca62fa
+      internalID: 1513572032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c727f4b036fcf469191d5276e492c077
+      internalID: -2094841468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582c631d519f2420297c881e4f2fa146
+      internalID: -751455958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e602a95fa9d748138574a1adeee4af5
+      internalID: 810757153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 961385d00f01c474480718a4269b3dfd
+      internalID: -1768044989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dae81c01ee34b8096237de73853177
+      internalID: -1167798091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4853aa687b2df498c8b59eca9a6cdd21
+      internalID: 438568966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0f0ec47e40d4c3e811de2f49229bfb
+      internalID: -1407156308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510e544c34d004c99b8fce8e55b97074
+      internalID: -1638490078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff345d1ee5d2e4917928aaef18b08a14
+      internalID: -1479940025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9515a1644b6ec4d93b56dd2f96339090
+      internalID: 1221919263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba8558570b6a942d8b6deeb73d346faf
+      internalID: 1089699452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8a7bf76a8c743a9bef05947bc33eb8
+      internalID: 810593599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_15
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa3baa4d6dd94f72a845a6faf780f94
+      internalID: 1870728357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_16
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ed63a17301e4c55b619e7b9082f930
+      internalID: -1248537314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_17
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40e062ac70c4d8f9041081621feeff
+      internalID: -1559430347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_18
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab63db539313d4e1abc6eda8fd8e1bc8
+      internalID: 1461244462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_19
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 1117
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b7f7c6557bb4add8d43d6e1044b9f8
+      internalID: -1817196022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06a6b53ef0f7b4408ada6d9d83f7bbc5
+      internalID: 81439799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33986fd27afd94db197e2eebebce7e7c
+      internalID: -1583607085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_22
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67ded7bf410f42f587df5d52b4e84e4
+      internalID: -1493478034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ffb98f93fa1049d0af066b3a940865b
+      internalID: 1548745883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_24
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181c7172e63f24eff8a5c0c4ea3b4c22
+      internalID: -1600407866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf02711534ceb4887af40c1fbda64bb8
+      internalID: -899402572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_26
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a500a309d5a224669ac408924b19d55b
+      internalID: -1962684394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_27
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52a10cf0eb394497859c69cf0c9cfb7
+      internalID: -342939883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_28
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f86795926584a9e8fe5f1b659e7a01
+      internalID: -919930186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_29
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eddc016173f6745469e3a9cf6dcaa6b4
+      internalID: -2083248903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_30
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0073e44cf1a24e83943fdccaf76356f
+      internalID: -1770921881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_31
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2951264fccae0464d940b2cd4a4c0e5e
+      internalID: -2102061453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_32
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74a8d1df3e9d47998c3620fae6dac4e
+      internalID: 530618028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_33
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f4388c5c78445aab2bcfa014c408e9
+      internalID: 1381213974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_34
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5780292a5f21d4f3083177d4271f711b
+      internalID: 252923350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_35
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c112efeede94d6db011d48ff5b7320
+      internalID: -1087161489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_36
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e71fbb68c55514ca1a43bd6aeceb1f12
+      internalID: -1361627015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_37
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969af8ab1b0624f969a067dee71f239d
+      internalID: 510694628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_38
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66ec0ebe9c84d43dd991602c51eeb95c
+      internalID: 1472134779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_39
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 989
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60d48a74bc1e4b7097b4af06b1828a5
+      internalID: 460602185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9d74dd159944da6a6615f41f31875d
+      internalID: 44925957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_41
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecf63744c78945baab6774593f1420f
+      internalID: -282359219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_42
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179a941eac20e4cab851a294bc79950d
+      internalID: 49736011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_43
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b0b99dfccb424f93aaced0a36a8011e
+      internalID: 2036471094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_44
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fda1d1d7398ed4fa29d4be18c637efb2
+      internalID: -15576122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_45
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccc67e0bb6c048bb84a751373cfab0a
+      internalID: 1690438554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_46
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb255a8ecadb4fc093570c46b1801bf
+      internalID: -1619753467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_47
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371ec8a4662a74a49a06d6a1695013c5
+      internalID: 1645425618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_48
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8eaf2f7e2c4f82adf6ee4e54f7162
+      internalID: 1895720181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_49
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d80f2bc02e449ff91e057edf5b34a2
+      internalID: 999505546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_50
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a77415a5ad8403e9347155c5f08578
+      internalID: 26946482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_51
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8175a0d52bc432ebada9f1b3ab578e
+      internalID: 650563227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_52
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da9f3b73f7524af0b101c4a2ea97f62
+      internalID: 855587793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_53
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24763e3cef974c6dad2ceb2bcb38ec0
+      internalID: -1161108471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_54
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1bdd918040144b495a24d01dd76f63
+      internalID: -716607377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_55
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906474523215f49b2a90ad245cbbb7c3
+      internalID: -1788948599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_56
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290bc1754ba7248119e0a5ba2d2418da
+      internalID: -1200807495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_57
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646ab947bddf843f49c5804b29c7bb97
+      internalID: 1466751379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_58
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce79b79b2d24437e80a361b89ac3cef
+      internalID: -448500647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_59
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 861
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3991ae26ebca3439686d904d205c6e32
+      internalID: 602319253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5593cb112338b463f829af61970163aa
+      internalID: 1202822033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 522882e64259642e68ce4597b126b7be
+      internalID: -1594687424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b848d3f4de5a942fe95a72dc2a4d09e9
+      internalID: 1175033782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 068a20f476d654e279ae287f6c731b13
+      internalID: -1198266470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524ca67912c3412fa9a0496eaaed59e
+      internalID: -1565694095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f576c478bb8b644429e036db7c462e25
+      internalID: 1761713749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fb1ad89d0ee1431c8ea505f9277da14
+      internalID: -1095547646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818ba53f572304368a20221aba727f71
+      internalID: 449045734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45720bafbdb6842688a842dda0749f9a
+      internalID: -934614827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bef3369716a9a4c1cae5d03dc1886e1d
+      internalID: 485824590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ef1ca8ea3b6474a9314f593fbb93da
+      internalID: 1304650923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_71
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 167adffb8f652464b8b06f58c4a78690
+      internalID: -2057954914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_72
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f240b0a78e34c75904077dcf048011
+      internalID: 2000819280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_73
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 758cf70073ec5496e8dde6a84ea5292a
+      internalID: 1814469086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_74
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a903efa2f22540bfbdc4ca85dd1e710
+      internalID: -1164676073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_75
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbcae5cbfbf04f4a90a0d7db106af56
+      internalID: -1236399326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_76
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fefe685b9f9ba4115b28809ae248e677
+      internalID: 2141075797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_77
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd7b1c5017764afaae12d1e23578c16
+      internalID: 1221355550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_78
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb1cdd4b7da0494aa55480678dae092
+      internalID: 937461007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_79
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 733
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c0cfdf672354cf0a49b9d88eed4e91
+      internalID: -1070406454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0b0e25390a146c7b91dbed6a26392f
+      internalID: -1506275064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_81
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 491460fc6afaa4de5ac5102254f91822
+      internalID: -924323242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_82
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2bb6a18ef97a49899673d866277cdf7
+      internalID: -1331963711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_83
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23d3b456b3f74ddfa8150283b1d7e42
+      internalID: -669209606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_84
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9a42c1be2734c9890643eba4d36f30
+      internalID: -2097032908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_85
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd91d15147dd644fd95c0aa61d854bfd
+      internalID: 1022079285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_86
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765f835230335499886b8d5eb627e8df
+      internalID: 1838423803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_87
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f89710f7dab742a9b4ab0b86251d32b
+      internalID: 1675122617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_88
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a30c5135716f4f5c8437cae306acd23
+      internalID: 459132480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_89
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192654b284f5d4915b165d0777f7cfdd
+      internalID: 821840931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_90
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ff69195f46449cd8ebc141a4948e32
+      internalID: -1302262901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_91
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5cbabe34ab44fada8421257efdd6bc
+      internalID: -679826923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_92
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a4177b9abcc74fa1aa64c0c5c4b1e23
+      internalID: 1662760889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_93
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37f04a14a2e347018c1c64bb99e8535
+      internalID: 1651750510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_94
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c313335a14e7a40b09beefbc9829d108
+      internalID: -1274203988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_95
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e0a899841748148522b22c2df12dc
+      internalID: 1105146654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_96
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c0465cc4449f47edb545d80d05d44e8
+      internalID: -1284105793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_97
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d629f3be6b5f0477b9a81ac0a5425a39
+      internalID: -1179872046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_98
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce7bf477cf0e54921a18e7118f5c9459
+      internalID: -330278059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_99
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 605
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cba065230514e59abf876c79515c3c
+      internalID: -399841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef69ba65862be41cc9d8a32566364f57
+      internalID: -1414953788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_101
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8928794c4044c21bd3c72bc89c38a1
+      internalID: -2091515484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_102
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2d5b77544d72473f9d944433f50b0b6
+      internalID: -154932541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_103
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d83ee56426804dc7b6951d52e44fef5
+      internalID: 1511187593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_104
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e66dbbf657476590d8f45d223f291
+      internalID: -636256076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_105
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cfdcee20a01b4e5983d301f41f8047f
+      internalID: 1778025849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_106
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bed2ce97f39d4a84b03397f8e04ef95
+      internalID: 1917413221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_107
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe05f005c4af400c863ffa4c1fd96ff
+      internalID: -1822792874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_108
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e66f650a8b944581968a047dbcf8e64
+      internalID: 353300924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_109
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471ebf2b960ff4b2d96f8d3c1f240c2d
+      internalID: 903544405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_110
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71332a4f6f7d947e494b3f48481b9741
+      internalID: 504227021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_111
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4c41ae97f3254910a6da8389cbd5fbd
+      internalID: -585211567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_112
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21e65580325294bdd9b8200acd7cda90
+      internalID: 532244948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_113
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d060b5884bb7a46c58397f48a511546d
+      internalID: -1385749354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_114
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aecf3ca96ec3f452da2fbb1027f31f19
+      internalID: 1588797495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_115
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13d508d6058d4ee6923e94873826441
+      internalID: 14756928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_116
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7736183bc6bd14368a278b82fe18a000
+      internalID: -1756280296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_117
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead9fa830f2e044a7acc5951b35a0e2b
+      internalID: 1809952270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_118
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13eb28aae1f04d6abf978c82789ea58
+      internalID: 1728688648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_119
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 477
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999761cadbba24545ba3e25acfb285e6
+      internalID: 391459637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be7354b2c443a43899b12cdcc747556a
+      internalID: -1695641030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_121
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f6539f927184ecfb5b457ac9be9e7b
+      internalID: 149951429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_122
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e872ac37f5f5947e6b17c0973eaa684e
+      internalID: -723717532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_123
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ce73ade401b84b0e914f7f0f0a1859c
+      internalID: -166217464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_124
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f17e4001e79423d840d3e8ad48788d
+      internalID: -1603309881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_125
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57db6ff78102d46a2a5d2626e66f002a
+      internalID: 885667813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_126
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a83d45e019aa6433b8092277a050dfc0
+      internalID: 1674163014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_127
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02cd6a29ff0f54f489c7900ac1e0def5
+      internalID: 1289573587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_128
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b8c43c6d89d4b9d8193b506be33277
+      internalID: 955376242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_129
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2b3fa3c5e3e4166920d2710109df69
+      internalID: 311181881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_130
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9325eb78b06854a83852586dfc97cc80
+      internalID: -1245698466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_131
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38796fada836f417c86e5b4c6413a83f
+      internalID: -1863433785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_132
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f643cb5782ff4451b9aa9389efca9b0a
+      internalID: -1847883910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_133
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5847c8846ec264d5c93ce819fbd38cfe
+      internalID: 843404036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_134
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf98e06a2593417cb609c360f995102
+      internalID: -613403271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_135
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a27e3b3818d74d46817f9207bf52aeb
+      internalID: 137251185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_136
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c474d4cc4ae43c58dee3c87d8f447e
+      internalID: -45340544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_137
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7026138e0b95e49118a01ec0a54dc86e
+      internalID: -1691108660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_138
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 454eef9c22f954000a8051ed64273e4f
+      internalID: -1703229072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_139
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 349
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdeef398ea4e64e15b0091340a74841e
+      internalID: -781376701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_140
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070a0385ea1a54fa39ba4d4a13c452b9
+      internalID: -1217338976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_141
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8868a1c4213c414180e575d9a826df8
+      internalID: -1820325157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_142
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d25d8e14c484fd89d86d97405e7bd2
+      internalID: -120725769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_143
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102d944238e314ff6ba93007e3ffa5f0
+      internalID: -1784777922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_144
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ea3515817f5424eaf628f6df7f9dbf
+      internalID: -1956083024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_145
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4e82a3c708844c2dba67099606ea55c
+      internalID: 1006142140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_146
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a367d45e04f4972951085f66975532
+      internalID: -1463842677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_147
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9f7b3cdde4d4982939c136a19e58f0
+      internalID: -622983215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_148
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05af9b53254046898680736d470e552
+      internalID: 1009276568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_149
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba1275d498d354b44a0c853a4b9f4757
+      internalID: 1752903926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_150
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70d335309de5d4d2ba4d0350edbe5e39
+      internalID: -760868445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_151
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139e97ff8bd094518acb75175de78a6d
+      internalID: -1944776512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_152
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cf7887cc24d427598606b75bdba2ef
+      internalID: 1998377770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_153
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 229110cb80af2422cb07a4de8e17a237
+      internalID: 1980340438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_154
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad9d2e64cca944fc9891e5ab9097c23
+      internalID: 1128207017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_155
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d502d58f7ba4afdb9576a9ae65fcf7
+      internalID: -261107171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_156
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bcc80d5322e490b85c70fd4f840a76
+      internalID: -2114056126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_157
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324fb9f8c913c4eeb9cfc2df664aaca8
+      internalID: 1002752082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_158
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732eff37969754a579cfd394731cc412
+      internalID: -1225803010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_159
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 221
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 531e70328f2d44ce097ccf2a83f4bb21
+      internalID: -739222695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321f70763c2df4ab9b8b077f2256683b
+      internalID: -1985706997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_161
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19c46115b704436d8fc4324a66a4408
+      internalID: 68305748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_162
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa76dcc4af00742fdac575cc65fecd18
+      internalID: -283533561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_163
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3da31e64f534160b533f0e13a9d91c
+      internalID: -1253741555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_164
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad4f7a4101ba467b86da843dfe171e6
+      internalID: -16965224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_165
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d681d11de6064295beb2c651c3c7e9b
+      internalID: -1485651804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_166
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698cc1472a9c6475390093e89aac1b1b
+      internalID: -1615414726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_167
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1176c006e9634d389776173f2ac713c
+      internalID: 382291574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_168
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6859213961457401aaa135721d4acb1a
+      internalID: -1887542277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_169
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49d415ffcfc11497986ce4a05440a415
+      internalID: -342581608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_170
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea8bc121c2274781980c91190ff2e38
+      internalID: 1467175276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_171
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b7192b771a447269a5b8bdb17d406c
+      internalID: 1084177622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_172
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15765ebb3c3224a4993b389d29b8338e
+      internalID: 552300993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_173
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50025c5c3c26a416dba5487b4bed8ffd
+      internalID: 1681561167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_174
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198d0c7fa4b094c688b05c2a8c2cc866
+      internalID: 808836111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_175
+      rect:
+        serializedVersion: 2
+        x: 1920
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 239560577f68d4308ba022b098b59df6
+      internalID: -416349468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_176
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a255abd1cdfa448f80a279f34e50fa5
+      internalID: 689801407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_177
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cdae1de19b7a4e6fbadad83df3b1b76
+      internalID: -45301637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_178
+      rect:
+        serializedVersion: 2
+        x: 2304
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6cffce2f346046eb8c6834d25591312
+      internalID: -71878312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sky_Bg 1_179
+      rect:
+        serializedVersion: 2
+        x: 2432
+        y: 93
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bffad8fce06024fdfab73628ee924cda
+      internalID: -1986266940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Sky_Bg 1_0: -1630802427
+      Sky_Bg 1_1: -1062394500
+      Sky_Bg 1_10: -1638490078
+      Sky_Bg 1_100: -1414953788
+      Sky_Bg 1_101: -2091515484
+      Sky_Bg 1_102: -154932541
+      Sky_Bg 1_103: 1511187593
+      Sky_Bg 1_104: -636256076
+      Sky_Bg 1_105: 1778025849
+      Sky_Bg 1_106: 1917413221
+      Sky_Bg 1_107: -1822792874
+      Sky_Bg 1_108: 353300924
+      Sky_Bg 1_109: 903544405
+      Sky_Bg 1_11: -1479940025
+      Sky_Bg 1_110: 504227021
+      Sky_Bg 1_111: -585211567
+      Sky_Bg 1_112: 532244948
+      Sky_Bg 1_113: -1385749354
+      Sky_Bg 1_114: 1588797495
+      Sky_Bg 1_115: 14756928
+      Sky_Bg 1_116: -1756280296
+      Sky_Bg 1_117: 1809952270
+      Sky_Bg 1_118: 1728688648
+      Sky_Bg 1_119: 391459637
+      Sky_Bg 1_12: 1221919263
+      Sky_Bg 1_120: -1695641030
+      Sky_Bg 1_121: 149951429
+      Sky_Bg 1_122: -723717532
+      Sky_Bg 1_123: -166217464
+      Sky_Bg 1_124: -1603309881
+      Sky_Bg 1_125: 885667813
+      Sky_Bg 1_126: 1674163014
+      Sky_Bg 1_127: 1289573587
+      Sky_Bg 1_128: 955376242
+      Sky_Bg 1_129: 311181881
+      Sky_Bg 1_13: 1089699452
+      Sky_Bg 1_130: -1245698466
+      Sky_Bg 1_131: -1863433785
+      Sky_Bg 1_132: -1847883910
+      Sky_Bg 1_133: 843404036
+      Sky_Bg 1_134: -613403271
+      Sky_Bg 1_135: 137251185
+      Sky_Bg 1_136: -45340544
+      Sky_Bg 1_137: -1691108660
+      Sky_Bg 1_138: -1703229072
+      Sky_Bg 1_139: -781376701
+      Sky_Bg 1_14: 810593599
+      Sky_Bg 1_140: -1217338976
+      Sky_Bg 1_141: -1820325157
+      Sky_Bg 1_142: -120725769
+      Sky_Bg 1_143: -1784777922
+      Sky_Bg 1_144: -1956083024
+      Sky_Bg 1_145: 1006142140
+      Sky_Bg 1_146: -1463842677
+      Sky_Bg 1_147: -622983215
+      Sky_Bg 1_148: 1009276568
+      Sky_Bg 1_149: 1752903926
+      Sky_Bg 1_15: 1870728357
+      Sky_Bg 1_150: -760868445
+      Sky_Bg 1_151: -1944776512
+      Sky_Bg 1_152: 1998377770
+      Sky_Bg 1_153: 1980340438
+      Sky_Bg 1_154: 1128207017
+      Sky_Bg 1_155: -261107171
+      Sky_Bg 1_156: -2114056126
+      Sky_Bg 1_157: 1002752082
+      Sky_Bg 1_158: -1225803010
+      Sky_Bg 1_159: -739222695
+      Sky_Bg 1_16: -1248537314
+      Sky_Bg 1_160: -1985706997
+      Sky_Bg 1_161: 68305748
+      Sky_Bg 1_162: -283533561
+      Sky_Bg 1_163: -1253741555
+      Sky_Bg 1_164: -16965224
+      Sky_Bg 1_165: -1485651804
+      Sky_Bg 1_166: -1615414726
+      Sky_Bg 1_167: 382291574
+      Sky_Bg 1_168: -1887542277
+      Sky_Bg 1_169: -342581608
+      Sky_Bg 1_17: -1559430347
+      Sky_Bg 1_170: 1467175276
+      Sky_Bg 1_171: 1084177622
+      Sky_Bg 1_172: 552300993
+      Sky_Bg 1_173: 1681561167
+      Sky_Bg 1_174: 808836111
+      Sky_Bg 1_175: -416349468
+      Sky_Bg 1_176: 689801407
+      Sky_Bg 1_177: -45301637
+      Sky_Bg 1_178: -71878312
+      Sky_Bg 1_179: -1986266940
+      Sky_Bg 1_18: 1461244462
+      Sky_Bg 1_19: -1817196022
+      Sky_Bg 1_2: 1513572032
+      Sky_Bg 1_20: 81439799
+      Sky_Bg 1_21: -1583607085
+      Sky_Bg 1_22: -1493478034
+      Sky_Bg 1_23: 1548745883
+      Sky_Bg 1_24: -1600407866
+      Sky_Bg 1_25: -899402572
+      Sky_Bg 1_26: -1962684394
+      Sky_Bg 1_27: -342939883
+      Sky_Bg 1_28: -919930186
+      Sky_Bg 1_29: -2083248903
+      Sky_Bg 1_3: -2094841468
+      Sky_Bg 1_30: -1770921881
+      Sky_Bg 1_31: -2102061453
+      Sky_Bg 1_32: 530618028
+      Sky_Bg 1_33: 1381213974
+      Sky_Bg 1_34: 252923350
+      Sky_Bg 1_35: -1087161489
+      Sky_Bg 1_36: -1361627015
+      Sky_Bg 1_37: 510694628
+      Sky_Bg 1_38: 1472134779
+      Sky_Bg 1_39: 460602185
+      Sky_Bg 1_4: -751455958
+      Sky_Bg 1_40: 44925957
+      Sky_Bg 1_41: -282359219
+      Sky_Bg 1_42: 49736011
+      Sky_Bg 1_43: 2036471094
+      Sky_Bg 1_44: -15576122
+      Sky_Bg 1_45: 1690438554
+      Sky_Bg 1_46: -1619753467
+      Sky_Bg 1_47: 1645425618
+      Sky_Bg 1_48: 1895720181
+      Sky_Bg 1_49: 999505546
+      Sky_Bg 1_5: 810757153
+      Sky_Bg 1_50: 26946482
+      Sky_Bg 1_51: 650563227
+      Sky_Bg 1_52: 855587793
+      Sky_Bg 1_53: -1161108471
+      Sky_Bg 1_54: -716607377
+      Sky_Bg 1_55: -1788948599
+      Sky_Bg 1_56: -1200807495
+      Sky_Bg 1_57: 1466751379
+      Sky_Bg 1_58: -448500647
+      Sky_Bg 1_59: 602319253
+      Sky_Bg 1_6: -1768044989
+      Sky_Bg 1_60: 1202822033
+      Sky_Bg 1_61: -1594687424
+      Sky_Bg 1_62: 1175033782
+      Sky_Bg 1_63: -1198266470
+      Sky_Bg 1_64: -1565694095
+      Sky_Bg 1_65: 1761713749
+      Sky_Bg 1_66: -1095547646
+      Sky_Bg 1_67: 449045734
+      Sky_Bg 1_68: -934614827
+      Sky_Bg 1_69: 485824590
+      Sky_Bg 1_7: -1167798091
+      Sky_Bg 1_70: 1304650923
+      Sky_Bg 1_71: -2057954914
+      Sky_Bg 1_72: 2000819280
+      Sky_Bg 1_73: 1814469086
+      Sky_Bg 1_74: -1164676073
+      Sky_Bg 1_75: -1236399326
+      Sky_Bg 1_76: 2141075797
+      Sky_Bg 1_77: 1221355550
+      Sky_Bg 1_78: 937461007
+      Sky_Bg 1_79: -1070406454
+      Sky_Bg 1_8: 438568966
+      Sky_Bg 1_80: -1506275064
+      Sky_Bg 1_81: -924323242
+      Sky_Bg 1_82: -1331963711
+      Sky_Bg 1_83: -669209606
+      Sky_Bg 1_84: -2097032908
+      Sky_Bg 1_85: 1022079285
+      Sky_Bg 1_86: 1838423803
+      Sky_Bg 1_87: 1675122617
+      Sky_Bg 1_88: 459132480
+      Sky_Bg 1_89: 821840931
+      Sky_Bg 1_9: -1407156308
+      Sky_Bg 1_90: -1302262901
+      Sky_Bg 1_91: -679826923
+      Sky_Bg 1_92: 1662760889
+      Sky_Bg 1_93: 1651750510
+      Sky_Bg 1_94: -1274203988
+      Sky_Bg 1_95: 1105146654
+      Sky_Bg 1_96: -1284105793
+      Sky_Bg 1_97: -1179872046
+      Sky_Bg 1_98: -330278059
+      Sky_Bg 1_99: -399841
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
